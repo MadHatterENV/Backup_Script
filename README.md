@@ -66,7 +66,7 @@ sudo chmod +x backupdir
 
 
 ## Author(s)
-This script was only written by :zap: [GodSpeed](--GodSpeed--) :zap:
+This script was only written by :zap: [MadHatterX](--MadHatterX--) :zap:
 
 ## License
 This project/code/script is licensed under the :copyright: [MIT license](mit)
