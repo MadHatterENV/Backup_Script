@@ -1,6 +1,6 @@
 # Backup a folder !
 
-<img src="https://img.shields.io/badge/MadHatterENV-github-green"> <img src="https://img.shields.io/badge/code by-GodSpeed-orange">
+<img src="https://img.shields.io/badge/MadHatterENV-github-green"> <img src="https://img.shields.io/badge/code by-MADhatter4²-orange">
 
 This script will backup a given folder to a **.tar.gz** file and display the progress on the terminal.
 Currently flawless running on a _Debian 10_ system.
